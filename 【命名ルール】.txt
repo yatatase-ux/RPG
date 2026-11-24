@@ -1,0 +1,14 @@
+【命名ルール】
+〇変数
+・始めは小文字
+・以降の単語の頭文字は大文字
+例）playerState, currentMP etc...
+
+〇関数
+・単語の頭文字を大文字にする
+例）GetHP, Jadge云々
+
+〇定数
+・全部大文字
+・基本的に"const ～～"の形で
+例）const int MAX_ITEMS
